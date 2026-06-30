@@ -122,11 +122,10 @@ A realistic face swap is rendered continuously while the camera is active.
 
 <p align="center">
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_LINK
+[https://github.com/user-attachments/assets/YOUR_VIDEO_LINK](https://github.com/user-attachments/assets/c56043de-37f3-464a-87b0-759f9443679c)
 
 </p>
 
-> Replace the GitHub video URL above after uploading your `swap.mp4` to your repository release or issue.
 
 ---
 

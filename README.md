@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="170">
+<img src="assets/logo.jpg" width="170">
 
 # FaceHex
 
@@ -47,21 +47,14 @@ The result is a smooth, immersive, and interactive experience designed for creat
 
 # Key Features
 
-⚡ Live Face Swapping
-
-🎯 Intelligent Facial Tracking
-
-✨ Natural Face Blending
-
-📷 Real-Time Camera Experience
-
-🚀 Responsive Performance
-
-🔒 Privacy-First Processing
-
-🎨 Modern Android Interface
-
-📱 Optimized Mobile Experience
+- ⚡ Live Face Swapping
+- 🎯 Intelligent Facial Tracking
+- ✨ Natural Face Blending
+- 📷 Real-Time Camera Experience
+- 🚀 Responsive Performance
+- 🔒 Privacy-First Processing
+- 🎨 Modern Android Interface
+- 📱 Optimized Mobile Experience
 
 ---
 
@@ -95,53 +88,75 @@ A realistic face swap is rendered continuously while the camera is active.
 
 <p align="center">
 
-<img src="assets/banner.jpg">
+<img src="assets/01.png" width="95%">
 
 </p>
 
+<br>
+
+<table align="center">
+<tr>
+<td><img src="assets/02.png" width="100%"></td>
+<td><img src="assets/03.png" width="100%"></td>
+</tr>
+
+<tr>
+<td><img src="assets/04.png" width="100%"></td>
+<td><img src="assets/05.png" width="100%"></td>
+</tr>
+
+<tr>
+<td><img src="assets/06.png" width="100%"></td>
+<td><img src="assets/07.jpg" width="100%"></td>
+</tr>
+
+<tr>
+<td><img src="assets/08.png" width="100%"></td>
+<td><img src="assets/09.png" width="100%"></td>
+</tr>
+</table>
+
 ---
 
-## Interface
+# Demo Video
 
-| Home | Camera |
-|------|---------|
-| ![](assets/home.png) | ![](assets/camera.png) |
+<p align="center">
+
+https://github.com/user-attachments/assets/YOUR_VIDEO_LINK
+
+</p>
+
+> Replace the GitHub video URL above after uploading your `swap.mp4` to your repository release or issue.
+
+---
+
+# Before vs After
 
 | Before | After |
 |---------|---------|
-| ![](assets/before.png) | ![](assets/after.png) |
+| ![](assets/before.webp) | ![](assets/after.webp) |
 
 ---
 
 # Core Capabilities
 
-• Continuous Facial Detection
-
-• Dynamic Facial Tracking
-
-• Intelligent Face Alignment
-
-• High-Fidelity Visual Blending
-
-• Live Camera Processing
-
-• Real-Time Rendering
+- Continuous Facial Detection
+- Dynamic Facial Tracking
+- Intelligent Face Alignment
+- High-Fidelity Visual Blending
+- Live Camera Processing
+- Real-Time Rendering
 
 ---
 
 # Designed For
 
-• Creative Content
-
-• Entertainment
-
-• Education
-
-• Social Media
-
-• Digital Storytelling
-
-• Creative Experimentation
+- Creative Content
+- Entertainment
+- Education
+- Social Media
+- Digital Storytelling
+- Creative Experimentation
 
 ---
 
@@ -149,7 +164,7 @@ A realistic face swap is rendered continuously while the camera is active.
 
 Privacy is a core principle of FaceHex.
 
-Face processing is designed to occur on the device, helping users retain control over their personal content.
+Face processing is designed to occur entirely on the device, helping users retain control over their personal content.
 
 ---
 
@@ -161,7 +176,7 @@ https://facehex.qzz.io/
 
 ## Android
 
-Google Play release coming soon.
+Google Play Release Coming Soon.
 
 ---
 
@@ -181,9 +196,9 @@ Computer Vision Enthusiast
 
 <div align="center">
 
-### FaceHex
+# FaceHex
 
-**Real-Time Face Swap Engine**
+### Real-Time Face Swap Engine
 
 Made with ❤️ by Guman Rajpurohit
 

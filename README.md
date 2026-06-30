@@ -167,11 +167,9 @@ Face processing is designed to occur entirely on the device, helping users retai
 
 ---
 
-# Download
+# 📥 Download
 
-## Website
-
-https://facehex.qzz.io/
+[⬇️ Download FaceHex APK](https://github.com/Guman-Rajpurohit/FaceHex/releases/latest)
 
 ## Android
 

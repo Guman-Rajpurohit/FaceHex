@@ -173,7 +173,7 @@ Face processing is designed to occur entirely on the device, helping users retai
 
 ## Android
 
-Google Play Release Coming Soon.
+
 
 ---
 

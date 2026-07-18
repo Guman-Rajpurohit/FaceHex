@@ -4,7 +4,7 @@
 
 # FaceHex
 
-### Real-Time Face Swap Engine for Androi
+### Real-Time Face Swap Engine for Android
 
 Experience seamless live face transformation powered by advanced computer vision and intelligent facial tracking.
 

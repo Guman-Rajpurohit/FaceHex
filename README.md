@@ -113,5 +113,5 @@ FaceHex is now officially live. Download it directly from the Google Play Store 
 <div align="center">
   <b>FaceHex — Real-Time Face Swap Engine</b><br>
   <br>
-  Made with by Guman Rajpurohit
+  Made with by Guman Rajpurohit 
 </div>

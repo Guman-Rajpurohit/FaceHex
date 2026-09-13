@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="assets/logo.jpg" width="150" alt="FaceHex Logo">
+  
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/logo.png">
+  <img src="assets/logo.png" width="150" alt="FaceHex Logo">
+</picture>
 
   # FaceHex
   **Real-Time Face Swap Engine for Android**

@@ -11,7 +11,7 @@
  
   *Experience seamless, live face transformations powered by advanced computer vision and intelligent on-device facial tracking.*
 
-  [![Google Play](https://img.shields.io/badge/Google_Play-Available-success?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.guman.facehex)
+  [![Google Play](https://img.shields.io/badge/Google_Play-Available-success?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.facehex.guman)
   [![Android Native](https://img.shields.io/badge/Android-Native-3DDC84?style=for-the-badge&logo=android)](#)
   [![Privacy](https://img.shields.io/badge/Privacy-On--Device-blue?style=for-the-badge)](#)
   [![Website](https://img.shields.io/badge/Website-facehex.qzz.io-black?style=for-the-badge)](https://facehex.qzz.io/)
@@ -96,7 +96,7 @@ FaceHex abandons traditional, static image editing in favor of a continuous, flu
 FaceHex is now officially live. Download it directly from the Google Play Store or grab the latest APK release from GitHub.
 
 <div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.guman.facehex">
+  <a href="https://play.google.com/store/apps/details?id=com.facehex.guman">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="220" alt="Get it on Google Play">
   </a>
   <br><br>
